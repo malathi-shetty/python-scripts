@@ -1,12 +1,8 @@
 # Python Scripts
 
-This repository contains Python scripts for automation and practice.
+This repo contains Python scripts for automation practice.
 
-## Scripts Included
-- File Automation
-- Log Parsing
-- Basic Calculator
-- Data Processing scripts
-
-## Purpose
-To build Python fundamentals for DevOps automation tasks.
+## Scripts
+- hello.py → prints message
+- calculator.py → basic math
+- file_reader.py → reads file
